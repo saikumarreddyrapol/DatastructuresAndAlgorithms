@@ -23,6 +23,6 @@ function validAnagram(a,b){
     };
     
     
-    a = 'sais';
+    a = 'saia';
     b = 'siaa';
     validAnagram(a,b);
